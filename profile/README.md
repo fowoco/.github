@@ -31,16 +31,16 @@ FOWOCO는 E-9 외국인근로자를 고용한 사업장의 HR·총무 담당자�
 FOWOCO는 **KT AIVLE School 빅프로젝트에서 8명의 팀원이 함께 만드는 팀
 프로젝트**입니다.
 
-| 팀원 | 역할 | 주요 담당 |
-| --- | --- | --- |
-| 현준 | TPM · Product Design · Backend | 제품 방향과 Workflow 기획, UI/UX 설계, Spring 기반 서비스 연동 |
-| 채은 | Project Operations · ML Engineering | 회의·산출물 관리, Intent 모델 학습·평가, 모델 서빙 |
-| 주현 | Agent Engineering | Agent 실행 흐름, Shared State와 도구 호출 구조 구현 |
-| 태정 | Document Agent Engineering | HWP·HWPX 문서 분석, 필드 매핑과 초안 생성 |
-| 휘 | Agent Engineering | 조건 분기, Agent 간 연동과 결과 검증 |
-| 재성 | Data · Backend Engineering | DB 모델링과 영속화, Spring API 구현 |
-| 경민 | Full-stack · Platform Engineering | HR 웹 구현, DB 연동, 배포·인프라 구성 |
-| 채린 | Backend Engineering | Spring 도메인 로직, Workflow 상태와 서비스 API 구현 |
+| 팀원 | GitHub | 역할 | 주요 담당 |
+| --- | --- | --- | --- |
+| 현준 | [@hywznn](https://github.com/hywznn) | TPM · Product Design · Backend | 제품 방향과 Workflow 기획, UI/UX 설계, Spring 기반 서비스 연동 |
+| 채은 | [@chaeeunn4](https://github.com/chaeeunn4) | Project Operations · ML Engineering | 회의·산출물 관리, Intent 모델 학습·평가, 모델 서빙 |
+| 주현 | [@ajh1004ajh00](https://github.com/ajh1004ajh00) | Agent Engineering | Agent 실행 흐름, Shared State와 도구 호출 구조 구현 |
+| 태정 | [@taejung3852](https://github.com/taejung3852) | Document Agent Engineering | HWP·HWPX 문서 분석, 필드 매핑과 초안 생성 |
+| 휘 | [@EHWIYA](https://github.com/EHWIYA) | Agent Engineering | 조건 분기, Agent 간 연동과 결과 검증 |
+| 재성 | [@krestar](https://github.com/krestar) | Data · Backend Engineering | DB 모델링과 영속화, Spring API 구현 |
+| 경민 | [@BcKmini](https://github.com/BcKmini) | Full-stack · Platform Engineering | HR 웹 구현, DB 연동, 배포·인프라 구성 |
+| 채린 | [@chaeliki](https://github.com/chaeliki) | Backend Engineering | Spring 도메인 로직, Workflow 상태와 서비스 API 구현 |
 
 > 기술을 위한 기능보다 현장에서 실제로 사용할 수 있는 업무 흐름을 만드는 것을
 > 목표로 합니다.
