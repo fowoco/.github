@@ -81,10 +81,10 @@ FOWOCO는 단순 번역이나 법률 판단 서비스가 아닙니다. HR 담당
 | **현준** | TPM · Product Design · Backend Integration | 서비스 범위와 UX 의사결정, Case·Task·승인 설계, Server와 AI Runtime 연동 |
 | **채은** | Project Operations · ML Engineering | 회의·산출물 관리, Intent 데이터 구축, A.X·BERT 학습과 성능 비교·평가 |
 | **주현** | OCR Agent · Document Intake | 여권·외국인등록증 분류, CLOVA OCR 호출, 필드 정규화와 저장 계약 |
-| **태정** | Document Agent · HWPX Automation | HWPX 구조 분석, 필드 매핑·초안 작성, 렌더링과 수정 결과 검증 |
+| **태정** | Language/Document Agent · HWPX Automation | HWPX 구조 분석, 필드 매핑·초안 작성, 렌더링과 수정 결과 검증 |
 | **휘** | Supervisor Agent · AI Serving | Intent·모호성 분석, LangGraph 상태·분기 관리, Workflow 실행·재개 API |
 | **재성** | Database · Backend Engineering | PostgreSQL 스키마·Flyway, RLS 사업장 격리, 시드 데이터와 DB 안정성 |
 | **경민** | Frontend · Platform · Infra | 화면·공통 컴포넌트와 API 연동, 접근성·상태 UX, Docker·Actions·k3s 배포 |
 | **채린** | Application · Backend Engineering | 근로자·문서 API, Worker 보안 링크, 멱등 파일 제출과 근로자 응답 처리 |
 
-각 담당은 자신의 주요 결과물에 대한 일차 책임을 가지며, 저장소 간 계약이 바뀌는 작업은 관련 담당자가 함께 검토합니다. Agent 영역은 `문서 인입 → 업무 판단·흐름 제어 → 행정문서 초안 생성·검증`으로 연결하며, Language Agent의 최종 담당은 구현 확정 후 반영합니다.
+ 
