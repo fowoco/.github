@@ -1,0 +1,43 @@
+name: Task
+description: 조사·문서·데이터·리팩토링·운영 작업을 정리합니다.
+title: "[Task] "
+body:
+  - type: textarea
+    id: purpose
+    attributes:
+      label: 목적
+      description: 이 작업이 왜 필요한가요?
+    validations:
+      required: true
+
+  - type: textarea
+    id: work
+    attributes:
+      label: 작업 내용
+      placeholder: |
+        - [ ] ...
+        - [ ] ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: done
+    attributes:
+      label: 완료 조건
+      description: 어떤 결과가 나오면 끝난 것으로 볼 수 있나요?
+    validations:
+      required: true
+
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: 의존성·협의 대상
+      description: 다른 저장소, API 계약, 담당자 결정이 필요하면 적어 주세요.
+
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: 확인
+      options:
+        - label: 실제 개인정보, 원본 문서, Token, Secret을 포함하지 않았습니다.
+          required: true

@@ -1,0 +1,60 @@
+name: Bug Report
+description: 재현 가능한 오류나 잘못된 동작을 보고합니다.
+title: "[Bug] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 문제
+      description: 어떤 화면·API·모델에서 무엇이 잘못되었나요?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 재현 방법
+      placeholder: |
+        1. ...로 이동
+        2. ...을 입력
+        3. ...을 클릭
+        4. 오류 확인
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 기대 결과
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: 실제 결과
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: 환경
+      description: 브랜치·commit, OS, 브라우저, 모델 버전 등 필요한 값만 적어 주세요.
+      placeholder: develop · abc1234 · Chrome 140
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 로그 또는 화면
+      description: 개인정보와 Secret을 제거한 자료만 첨부해 주세요.
+
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: 확인
+      options:
+        - label: 실제 개인정보, 원본 신분서류, Token, Secret을 포함하지 않았습니다.
+          required: true
+        - label: 보안 취약점이라면 공개 Issue 대신 Security 절차를 사용하겠습니다.
+          required: true

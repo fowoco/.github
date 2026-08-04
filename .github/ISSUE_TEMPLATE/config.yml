@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 보안·개인정보 문제
+    url: https://github.com/fowoco/.github/blob/main/SECURITY.md
+    about: 공개 Issue를 만들기 전에 비공개 제보 방법을 확인해 주세요.
+  - name: 저장소 선택 안내
+    url: https://github.com/fowoco/.github/blob/main/SUPPORT.md
+    about: 어떤 저장소에 질문이나 요청을 남겨야 하는지 확인해 주세요.
