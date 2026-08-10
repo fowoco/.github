@@ -7,7 +7,6 @@
 | 경로 | 용도 |
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | GitHub 조직 메인 소개 |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md) | 공통 브랜치·커밋·리뷰 기준 |
 | [`SECURITY.md`](SECURITY.md) | 보안 취약점과 개인정보 노출 제보 |
 | [`SUPPORT.md`](SUPPORT.md) | 질문·오류·기능 요청 안내 |
 | [`.github/ISSUE_TEMPLATE`](.github/ISSUE_TEMPLATE) | 공통 Issue 양식 |
