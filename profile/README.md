@@ -100,7 +100,7 @@
     </tr>
     <tr>
       <td><b>김경민</b><br><a href="https://github.com/BcKmini">@BcKmini</a></td>
-      <td>• React 기반 대시보드·업무함·문서함·근로자 화면 구현<br>• 비동기 실행 상태와 예외 상태를 포함한 API 연동 UX 구축<br>• Docker·GitHub Actions·k3s 배포 및 모니터링 환경 구성</td>
+      <td>• React 기반 대시보드·업무함·문서함·근로자 화면 구현<br>• 비동기 실행 상태와 예외 상태를 포함한 API 연동 UX 구축<br>• Docker·GitHub Actions/k3s on AWS 배포 및 모니터링 환경 구성</td>
     </tr>
     <tr>
       <td><b>김채린</b><br><a href="https://github.com/chaeliki">@chaeliki</a></td>
